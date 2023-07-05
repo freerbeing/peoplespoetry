@@ -2,6 +2,8 @@
 title: "789"
 date: 2023-07-04T17:31:44+02:00
 draft: false
+showAuthor: true
+author: ricardo
 ---
 
 ## It’s important

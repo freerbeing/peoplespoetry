@@ -2,6 +2,7 @@
 title: "About People's Poetry"
 date: 2023-07-04T17:35:12+02:00
 draft: false
+author: ricardo
 ---
 
 ## We are transitioning into the birth of our new earth.
