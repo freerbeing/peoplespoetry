@@ -13,11 +13,11 @@ title = "People's Poetry"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+ [author]
+   name = "People's Poetry - La Alpujarra"
+   image = "img/blowfish_logo.png"
+   headline = "It's just a load of words, right?"
+   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

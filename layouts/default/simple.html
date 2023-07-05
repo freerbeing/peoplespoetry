@@ -1,0 +1,48 @@
+{{ define "main" }}
+  <article class="max-w-full">
+    <header>
+      {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
+        {{ partial "breadcrumbs.html" . }}
+      {{ end }}
+      <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+        {{ .Title | emojify }}
+      </h1>
+    </header>
+
+                    <div class="relative px-8 py-16 flex flex-col items-center justify-center text-center">
+                    {{ with .Site.Author.image }}
+                    {{ $authorImage := resources.Get . }}
+                    {{ if $authorImage }}
+                    {{ $authorImage := $authorImage.Fill "288x288" }}
+                    <img class="mb-2 rounded-full h-36 w-36" width="144" height="144"
+                        alt="{{ $.Site.Author.name | default " Author" }}" src="{{ $authorImage.RelPermalink }}" />
+                    {{ end }}
+                    {{ end }}
+                    <h1 class="mb-2 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">
+                        {{ .Site.Author.name | default .Site.Title }}
+                    </h1>
+                    {{ with .Site.Author.headline }}
+                    <h2 class="mt-0 mb-0 text-xl text-neutral-800 dark:text-neutral-300">
+                        {{ . | markdownify | emojify }}
+                    </h2>
+                    {{ end }}
+                    <div class="mt-1 mb-10 text-2xl">
+                        {{ with .Site.Author.links }}
+                        <div class="flex flex-wrap">
+                            {{ range $links := . }}
+                            {{ range $name, $url := $links }}
+                            <a class="px-2 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="{{ $url }}" target="_blank"
+                                aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{ partial
+                                "icon.html" $name }}</a>
+                            {{ end }}
+                            {{ end }}
+                        </div>
+
+    <section class="max-w-full mt-6 prose dark:prose-invert">
+      {{ .Content | emojify }}
+    </section>
+    <footer class="pt-8">
+      {{ partial "sharing-links.html" . }}
+    </footer>
+  </article>
+{{ end }}

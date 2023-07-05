@@ -2,6 +2,9 @@
 title: "456"
 date: 2023-07-04T17:31:37+02:00
 draft: false
+showAuthor: true
+authors: "Ricardo"
+showAuthorsBadges : true
 ---
 
 

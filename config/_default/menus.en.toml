@@ -20,26 +20,31 @@
   pageRef = "about"
   weight = 20
 
-[[main]]
-  name = "Parent"
-  weight = 50
+  [[main]]
+  name = "Authors"
+  pageRef = "authors"
+  weight = 30
 
-[[main]]
-  name = "example sub-menu 1"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 60
+# [[main]]
+#  name = "Parent"
+#  weight = 50
 
-[[main]]
-  name = "example sub-menu 2"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 70
+# [[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 60
 
-[[subnavigation]]
-  name = "An interesting topic"
-  pageRef = "tags"
-  weight = 80
+# [[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+# pageRef = "posts"
+#  weight = 70
+
+# [[subnavigation]]
+#  name = "An interesting topic"
+# pageRef = "tags"
+ # weight = 80
 
 #[[subnavigation]]
 #  name = "My Awesome Category"
@@ -47,10 +52,10 @@
 #  pageRef = "categories/awesome"
 #  weight = 20
 
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 30
+# [[main]]
+# name = "Categories"
+#  pageRef = "categories"
+# weight = 30
 
 #[[main]]
 #  name = "Tags"
