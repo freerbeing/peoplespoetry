@@ -7,7 +7,7 @@ slug: "multi-author"
 tags: ["authors", "config", "docs"]
 showAuthor: true
 authors:
-  - "ricardo"
+  - "nunocoracao"
 showAuthorsBadges : true
 ---
 

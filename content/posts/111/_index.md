@@ -2,8 +2,11 @@
 title: "111"
 date: 2023-07-04T18:24:17+02:00
 draft: false
+tags: ["authors", "config", "docs"]
 showAuthor: true
-authors: hannah
+authors:
+  - "nunocoracao"
+showAuthorsBadges : true
 ---
 
 ## The sections

@@ -2,8 +2,11 @@
 title: "123"
 date: 2023-07-04T17:31:00+02:00
 draft: false
+tags: ["authors", "config", "docs"]
 showAuthor: true
-authors: Ricardo
+authors:
+  - "hannah"
+showAuthorsBadges : true
 ---
 
 ## Hugo defaults
