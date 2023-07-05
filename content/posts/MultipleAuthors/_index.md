@@ -8,7 +8,7 @@ tags: ["authors", "config", "docs"]
 showAuthor: true
 authors:
   - "ricardo"
-showAuthorsBadges : false
+showAuthorsBadges : true
 ---
 
 ## Mulitple?
