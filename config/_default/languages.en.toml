@@ -19,7 +19,7 @@ title = "People's Poetry"
    headline = "It's just a load of words, right?"
    bio = "A little bit about you"
    links = [
-     { email = "mailto:hello@your_domain.com" },
+     { email = "mailto:hello@your_domain.com" }
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -61,4 +61,4 @@ title = "People's Poetry"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+   ]
