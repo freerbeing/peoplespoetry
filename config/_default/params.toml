@@ -114,7 +114,7 @@ disableImageOptimization = true
   cardView = true
   cardViewScreenWidth = false
 
-[firebase]
+# [firebase]
   # apiKey = "XXXXXX"
   # authDomain = "XXXXXX"
   # projectId = "XXXXXX"
@@ -123,11 +123,11 @@ disableImageOptimization = true
   # appId = "XXXXXX"
   # measurementId = "XXXXXX"
 
-[fathomAnalytics]
+# athomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
-[buymeacoffee]
+# [buymeacoffee]
   # identifier = ""
   # globalWidget = true
   # globalWidgetMessage = "Hello"
