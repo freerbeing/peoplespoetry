@@ -18,7 +18,7 @@ mainSections = ["posts"]
 disableImageOptimization = true
 
  defaultBackgroundImage = "/img/mosaic-18.jpg" # used as default for background images
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+ defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
