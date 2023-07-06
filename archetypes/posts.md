@@ -10,4 +10,3 @@ authors:
   - ""
 showAuthorsBadges : true
 ---
-
