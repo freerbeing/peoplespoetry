@@ -114,13 +114,13 @@ disableImageOptimization = true
   cardView = true
   cardViewScreenWidth = false
 
-# [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
+ [firebase]
+   apiKey = " AIzaSyDsuUOS7aj7UZcaVRHuxmSg8U9Hdeds-8Q "
+   authDomain = "startling-bunny-d5adab.netlify.app/"
+  # projectId = "pp-likes-etc"
   # storageBucket = "XXXXXX"
   # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
+  # appId = "906303112995"
   # measurementId = "XXXXXX"
 
 # athomAnalytics]
