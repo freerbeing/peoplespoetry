@@ -5,7 +5,7 @@ draft: false
 tags: ["authors", "config", "docs"]
 showAuthor: true
 authors:
-  - "nunocoracao"
+  - "ricardo"
 showAuthorsBadges : true
 ---
 
