@@ -4,7 +4,8 @@ date: 2023-07-04T17:31:37+02:00
 draft: false
 tags: ["authors"]
 showAuthor: true
-authors: "ricardo"
+authors:
+  - "ricardo"
 showAuthorsBadges : true
 ---
 
