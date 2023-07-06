@@ -2,7 +2,7 @@
 title: "123"
 date: 2023-07-04T17:31:00+02:00
 draft: false
-tags: ["authors", "config", "docs"]
+tags: ["authors"]
 showAuthor: true
 authors:
   - "hannah"

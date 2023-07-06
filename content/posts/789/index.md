@@ -2,8 +2,13 @@
 title: "789"
 date: 2023-07-04T17:31:44+02:00
 draft: false
+description: ""
+slug: ""
+tags: ["authors"]
 showAuthor: true
-author: ricardo
+authors:
+  - "ricardo"
+showAuthorsBadges : true
 ---
 
 ## It’s important
