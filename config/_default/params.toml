@@ -47,8 +47,8 @@ disableImageOptimization = true
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = true
   showHero = false
@@ -87,7 +87,7 @@ disableImageOptimization = true
   showCards = true
   groupByYear = true
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   constrainItemsWidth = false
 
 [sitemap]
