@@ -13,6 +13,6 @@ showAuthorsBadges : true
 
 ## Audio test shortcode etc
 
-{{< audio "/audio/speak.mp3" "A custom comment" >}}
+{{< audio src="assets/audio/speak.mp3" caption="Speak" >}}
 
 KHBJkjsbndcvkjsbdcvksjdb
