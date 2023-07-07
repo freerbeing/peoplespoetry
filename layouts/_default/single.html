@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ .Scratch.Set "scope" "single" }}
 
+
 <article>
   {{ if .Params.showHero | default (.Site.Params.article.showHero | default false) }}
   {{ $heroStyle := .Params.heroStyle }}
@@ -56,7 +57,7 @@
     {{ if or $taxonomyLink $showAuthor }}
     <div class="mb-5"></div>
     {{ end }}
-  
+
   </header>
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     {{ if or (and (.Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false)) (in

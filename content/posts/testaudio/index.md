@@ -7,12 +7,12 @@ slug: ""
 tags: []
 showAuthor: true
 authors:
-  - ""
+  - "ricardo"
 showAuthorsBadges : true
 ---
 
 ## Audio test shortcode etc
 
+{{< audio "/audio/speak.mp3" "A custom comment" >}}
 
-{{<audio src="/audio/speak.mp3" caption="Speak" >}}
-
+KHBJkjsbndcvkjsbdcvksjdb
