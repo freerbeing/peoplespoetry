@@ -107,8 +107,8 @@ disableImageOptimization = true
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = true
   groupByYear = false
   cardView = true
@@ -117,10 +117,10 @@ disableImageOptimization = true
  [firebase]
    apiKey = " AIzaSyDsuUOS7aj7UZcaVRHuxmSg8U9Hdeds-8Q "
    authDomain = "startling-bunny-d5adab.netlify.app/"
-  # projectId = "pp-likes-etc"
+  projectId = "pp-likes-etc"
   # storageBucket = "XXXXXX"
   # messagingSenderId = "XXXXXX"
-  # appId = "906303112995"
+  appId = "906303112995"
   # measurementId = "XXXXXX"
 
 # athomAnalytics]

@@ -14,5 +14,5 @@ showAuthorsBadges : true
 ## Audio test shortcode etc
 
 
-{{<audio03 src="/audio/sorrows.mp3" caption="Macroblank" >}}
+{{<audio src="/audio/speak.mp3" caption="Speak" >}}
 
