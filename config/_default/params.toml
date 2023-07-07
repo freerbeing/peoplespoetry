@@ -18,7 +18,7 @@ mainSections = ["posts"]
 disableImageOptimization = true
 
  defaultBackgroundImage = "/img/mosaic-18.jpg" # used as default for background images
- defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+ # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
@@ -43,6 +43,7 @@ disableImageOptimization = true
   showMoreLinkDest = "/posts"
   cardView = true
   cardViewScreenWidth = false
+
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
@@ -50,7 +51,7 @@ disableImageOptimization = true
   showViews = true
   showLikes = true
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -84,10 +85,10 @@ disableImageOptimization = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = true
+  showCards = false
   groupByYear = true
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   constrainItemsWidth = false
 
 [sitemap]
@@ -107,8 +108,8 @@ disableImageOptimization = true
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showTableOfContents = true
   groupByYear = false
   cardView = true
