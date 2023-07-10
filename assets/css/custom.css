@@ -21,7 +21,7 @@ html {
 }
 @font-face {
     font-family: scriptina;
-    src: url('/fonts/scriptina.ttf');
+    src: url('/fonts/scriptina.extrabold.ttf');
 }
 html {
     font-family: dosis;
