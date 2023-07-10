@@ -8,16 +8,33 @@
   display:none;
 }
 
+/* Increase the default font size */
+html {
+  font-size: 16pt;
+}
+
 
 @font-face {
     font-family: font;
-    src: url('/fonts/louis-george');
+    src: url('/fonts/glacial-indifference');
 }
+@font-face {
+    font-family: font;
+    src: url('/fonts/rockit.ttf');
+}
+@font-face {
+    font-family: font;
+    src: url('/fonts/dosis.ttf');
+}
+
 
 html {
-    font-family: louis-george;
+    font-family: dosis;
 }
 
+h1.mb-2{
+  font-family: rockit;
+}
 .py-16 {
     padding-top: 4rem;
     padding-bottom: 0rem;
