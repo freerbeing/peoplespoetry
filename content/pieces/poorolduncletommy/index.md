@@ -17,8 +17,8 @@ He was a kind and soft-spoken Irish gentleman\
 And he didn't deserve that
 
 Always with a smile and a twenty for the kids every time he saw us\
-Back when 20 quid meant summing\
-He would still give it us, 20 quid, right up to the last time I saw him\
+Back when twenty quid meant summing\
+He would still give it us, twenty quid, right up to the last time I saw him\
 Tho I was in my fifties by then, and 20 quid counted for a lot less in what you could get for it\
 It still meant so much\
 He was the perfect uncle\
