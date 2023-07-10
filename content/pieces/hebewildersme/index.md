@@ -1,5 +1,5 @@
 ---
-title: "He bewilders me"
+title: "He Bewilders Me"
 date: 2023-07-08T16:07:37+02:00
 draft: false
 description: ""
