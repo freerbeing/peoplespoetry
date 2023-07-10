@@ -12,24 +12,26 @@
 html {
   font-size: 14pt;
 }
-
-
 @font-face {
     font-family: dosis;
     src: url('/fonts/dosis.ttf');
 }
-@font-face {
-    font-family: arturo;
-    src: url('/fonts/arturo.ttf');
+html {
+    font-family: dosis;
 }
-
+@font-face {
+    font-family: scriptina;
+    src: url('/fonts/scriptina.ttf');
+}
 html {
     font-family: dosis;
 }
 
 h1.mb-2{
-  font-family: arturo;
+  font-family:scriptina;
 }
+
+
 .py-16 {
     padding-top: 4rem;
     padding-bottom: 0rem;
