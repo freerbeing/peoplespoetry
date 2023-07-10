@@ -59,7 +59,6 @@ disableImageOptimization = true
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
