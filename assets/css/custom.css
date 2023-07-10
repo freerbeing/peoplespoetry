@@ -16,7 +16,7 @@ html {
 
 @font-face {
     font-family: font;
-    src: url('/fonts/glacial-indifference');
+    src: url('/fonts/glacial-indifference.regular.otf');
 }
 @font-face {
     font-family: font;
@@ -26,14 +26,17 @@ html {
     font-family: font;
     src: url('/fonts/dosis.ttf');
 }
-
+@font-face {
+    font-family: font;
+    src: url('/fonts/arturo.ttf');
+}
 
 html {
     font-family: dosis;
 }
 
 h1.mb-2{
-  font-family: rockit;
+  font-family: arturo;
 }
 .py-16 {
     padding-top: 4rem;
