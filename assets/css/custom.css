@@ -10,16 +10,16 @@
 
 /* Increase the default font size */
 html {
-  font-size: 12pt;
+  font-size: 14pt;
 }
 
 
 @font-face {
-    font-family: font;
+    font-family: dosis;
     src: url('/fonts/dosis.ttf');
 }
 @font-face {
-    font-family: font;
+    font-family: arturo;
     src: url('/fonts/arturo.ttf');
 }
 
