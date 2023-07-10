@@ -16,21 +16,16 @@ html {
     font-family: dosis;
     src: url('/fonts/dosis.ttf');
 }
-html {
-    font-family: dosis;
-}
 @font-face {
     font-family: scriptina;
-    src: url('/fonts/scriptina.extrabold.ttf');
+    src: url('/fonts/scriptina.ttf');
 }
 html {
     font-family: dosis;
 }
-
 h1.mb-2{
-  font-family:scriptina;
+  font-family: scriptina;
 }
-
 
 .py-16 {
     padding-top: 4rem;
