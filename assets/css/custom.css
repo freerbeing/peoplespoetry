@@ -13,19 +13,21 @@ html {
   font-size: 14pt;
 }
 @font-face {
-    font-family: dosis;
-    src: url('/fonts/dosis.ttf');
+  font-family: "dosis";
+  src: url("/fonts/dosis.woff2");
 }
 @font-face {
     font-family: scriptina;
     src: url('/fonts/scriptina.ttf');
 }
+
 html {
-    font-family: dosis;
+  font-family: "dosis", sans-serif;
 }
 h1.mb-2{
   font-family: scriptina;
 }
+
 
 .py-16 {
     padding-top: 4rem;
