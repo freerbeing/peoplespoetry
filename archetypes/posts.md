@@ -4,7 +4,8 @@ date: {{ .Date }}
 draft: true
 description: ""
 slug: ""
-tags: []
+form: [""]
+tags: [""]
 showAuthor: true
 authors:
   - ""

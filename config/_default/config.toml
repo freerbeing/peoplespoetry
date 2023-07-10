@@ -23,6 +23,7 @@ buildFuture = false
   tag = "tags"
   category = "categories"
   author = "authors"
+  form = "form"
 
 [sitemap]
   changefreq = 'daily'

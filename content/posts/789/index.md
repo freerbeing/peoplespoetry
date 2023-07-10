@@ -4,6 +4,7 @@ date: 2023-07-04T17:31:44+02:00
 draft: false
 description: ""
 slug: ""
+form: ["Written"]
 tags: ["authors"]
 showAuthor: true
 authors:
