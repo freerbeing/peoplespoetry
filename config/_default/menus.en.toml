@@ -14,27 +14,22 @@
 [[main]]
   name = "Pieces"
   pageRef = "pieces"
-  weight = 6
+  weight = 12
 
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
-  weight = 10
-
-  [[main]]
   name = "Authors"
   pageRef = "authors"
-  weight = 20
+  weight = 24
 
  [[main]]
   name = "Form"
   pageRef = "form"
-  weight = 30
+  weight = 36
 
  [[main]]
   name = "About"
   pageRef = "about"
-  weight = 40
+  weight = 48
 
 # [[main]]
 #  name = "Parent"
