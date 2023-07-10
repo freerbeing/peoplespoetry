@@ -10,18 +10,10 @@
 
 /* Increase the default font size */
 html {
-  font-size: 16pt;
+  font-size: 12pt;
 }
 
 
-@font-face {
-    font-family: font;
-    src: url('/fonts/glacial-indifference.regular.otf');
-}
-@font-face {
-    font-family: font;
-    src: url('/fonts/rockit.ttf');
-}
 @font-face {
     font-family: font;
     src: url('/fonts/dosis.ttf');
