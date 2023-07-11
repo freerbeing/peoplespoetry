@@ -19,7 +19,7 @@ But with a lot more money, glamour, power, pool parties and women in his life
 
 Thank god, it's Friday\
 He's just getting home\
-Yet another long week driving up and down the motorways and in and out of the towns and cities\
+Yet another long week alone driving up and down the motorways and in and out of the towns and cities\
 Mum has put his dinner in the microwave
 
 He used to go out on a Friday with his mate\
