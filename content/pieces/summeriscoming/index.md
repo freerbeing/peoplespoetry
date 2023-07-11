@@ -74,7 +74,7 @@ It's beautiful innit?
 I will work hard\
 But not too hard\
 Walking slowly like an African in a desert\
-Throwing frisbee for my dog but not too much cos her little heart will pop in the overheat\
+Throwing frisbee for my dog but not too much cos her little huge heart will pop in the overheat\
 Get up early\
 Water my trees\
 Take care of my finca\

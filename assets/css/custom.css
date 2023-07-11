@@ -14,20 +14,22 @@ html {
 }
 @font-face {
   font-family: "dosis";
-  src: url("/fonts/dosis.woff2");
+  src: url("/fonts/dosis/dosis.woff2");
 }
 @font-face {
-    font-family: scriptina;
-    src: url('/fonts/scriptina.ttf');
+    font-family: arturo;
+    src: url('/fonts/arturo/arturo.woff2');
 }
 
 html {
   font-family: "dosis", sans-serif;
 }
 h1.mb-2{
-  font-family: scriptina;
+  font-family: arturo;
 }
-
+.font-extrabold {
+    font-weight: 400;
+}
 .py-16 {
     padding-top: 4rem;
     padding-bottom: 0rem;
