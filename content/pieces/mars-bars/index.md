@@ -44,7 +44,7 @@ And back out again empty-handed\
 You don't get shit for "nearly made it" in the music biz
 
 The band argued amongst themselves and broke up\
-The once-loved horn sits forsaken in its' closed case in the corner generating in Greg a depressing, subliminal guilt
+The once-loved horn sits cold and forsaken in its' closed case in the corner generating in Greg a depressing, subliminal guilt
 
 Tomorrow is football\
 He holds a season ticket\
