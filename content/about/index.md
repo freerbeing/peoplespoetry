@@ -1,5 +1,5 @@
 ---
-title: "About Poetry for the sPeople"
+title: "About Poetry for the People"
 date: 2023-07-04T17:35:12+02:00
 draft: false
 tags: ["authors", "config", "docs"]
@@ -19,7 +19,7 @@ The words and songs that channel through us are not for ours to keep.
 We are calling on our wordsmith warriors to not stay silent anymore.\
 Now is not the time for your silence , because the whole world needs to hear you roar in your rawness.
 
-Our Words create worlds
+Our Words create worlds.
 
 “POETRY FOR THE PEOPLE”
 
@@ -33,10 +33,10 @@ And will continue to move and shake and trail blaze, following the wisdom of wor
 
 All upcoming poetry for the people nights and festivals will be shared in this group.
 
-Along with poems from our events that moved you
+Along with poems from our events that moved you.
 
 Be apart of the movement that just by being you and standing in your truth will change the world.
 
-All our love inspiration and encouragement
+All our love inspiration and encouragement,
 
 ### Ali P and Hannah Mama-Skye
