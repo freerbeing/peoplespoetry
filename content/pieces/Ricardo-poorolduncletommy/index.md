@@ -19,10 +19,10 @@ And he didn't deserve that
 Always with a smile and a twenty for the kids every time he saw us\
 Back when twenty quid meant summing\
 He would still give it us, twenty quid, right up to the last time I saw him\
-Tho I was in my fifties by then, and 20 quid counted for a lot less in what you could get for it\
+Tho I was in my fifties by then, and twenty quid counted for a lot less in what you could get for it\
 It still meant so much\
 He was the perfect uncle\
-I am so glad I told him that on his 80th birthday
+I am so glad I told him that on his eightieth birthday
 
 Handsome and hopeful, young Tommy went away to work in London in the 1950s\
 Leaving Mayo for his chosen crescendo-ing city like oh so many of his family and friends\
