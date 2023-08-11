@@ -26,10 +26,15 @@
   pageRef = "form"
   weight = 36
 
+  [[main]]
+  name = "Galleries"
+  pageRef = "galleries"
+  weight = 48
+
  [[main]]
   name = "About"
   pageRef = "about"
-  weight = 48
+  weight = 60
 
 # [[main]]
 #  name = "Parent"
